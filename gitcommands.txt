@@ -1,0 +1,4 @@
+git config --list : It will list all the configuration parameters
+git config --global user.name <author name> : It will set the author name under whom the versions of git will be created
+git config  --global user.email <author email> : It will set the email of the author for the git changes
+ 
