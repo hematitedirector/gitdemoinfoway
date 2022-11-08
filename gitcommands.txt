@@ -5,3 +5,7 @@ git diff : It shows the difference between the last commited file and the file i
 git diff --staged : It will show the difference between the last commited file and the file in the staging area
 git reset <commit> : this command will undo all commits after the specified commit and preserves the changes in local directory
 git reset --hard <commit> : this command discards all history and goes back to the specified commit
+git restore <filename> : It will help to restore the deleted file from your working area(local directory)
+git ls-files: It will list down all the files which are in the local repository
+git show : It will show the difference between the latest commit file and the current file
+
